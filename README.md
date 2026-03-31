@@ -17,4 +17,4 @@ Today was dedicated to mastering the core syntax of Python, which is the backbon
 4. **Frequency Counter:** Using Dictionaries to count occurrences in a list (essential for NLP).
 
 ---
-Follow my journey on [Medium](YOUR_MEDIUM_LINK)
+Follow my journey on [Medium](https://medium.com/@archanasolanki2004/day-1-why-you-cant-build-ai-without-these-python-fundamentals-1c97a7d423ca)
