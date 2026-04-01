@@ -29,9 +29,8 @@ If you're also on a similar path, feel free to follow along or start your own ch
 Share your progress using **#100DaysOfCode** and let’s grow together 🚀
 <h2 align="center">🌐 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/archana-solanki-65bb92258/))
-
-[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)]([https://medium.com/@your-username](https://medium.com/@archanasolanki2004))
+Linkedin:**https://www.linkedin.com/in/archana-solanki-65bb92258/**
+Medium:**https://medium.com/@archanasolanki2004**
 
 
 
