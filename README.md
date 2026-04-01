@@ -31,9 +31,6 @@ Share your progress using **#100DaysOfCode** and let’s grow together 🚀
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/archana-solanki-65bb92258/))
 
-[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)]([https://medium.com/@your-username](https://medium.com/@archanasolanki2004))
----
 
 Let’s build, learn, and level up — one day at a time 💻🔥
