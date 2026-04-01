@@ -27,7 +27,16 @@ This is not just a challenge, it's a transformation journey where I will:
 If you're also on a similar path, feel free to follow along or start your own challenge!
 
 Share your progress using **#100DaysOfCode** and let’s grow together 🚀
+<h2 align="center">🌐 Connect with Me</h2>
 
+<p align="center">
+  <a href="(https://www.linkedin.com/in/archana-solanki-65bb92258/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
+  <a href="(https://medium.com/@archanasolanki2004)">
+    <img src="https://img.shields.io/badge/Medium-Read-black?logo=medium"/>
+  </a>
+</p>
 ---
 
 Let’s build, learn, and level up — one day at a time 💻🔥
