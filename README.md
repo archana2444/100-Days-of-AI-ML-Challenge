@@ -29,7 +29,14 @@ If you're also on a similar path, feel free to follow along or start your own ch
 Share your progress using **#100DaysOfCode** and let’s grow together 🚀
 <h2 align="center">🌐 Connect with Me</h2>
 
-## 🌐 Connect with Me
+<p align="center">
+  <a href="[https://linkedin.com/in/your-username](https://www.linkedin.com/in/archana-solanki-65bb92258/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
+  <a href="[https://medium.com/@your-username](https://medium.com/@archanasolanki2004)">
+    <img src="https://img.shields.io/badge/Medium-Read-black?logo=medium"/>
+  </a>
+</p>
 
 
 
